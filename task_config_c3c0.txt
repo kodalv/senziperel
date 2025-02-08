@@ -1,0 +1,4 @@
+Project Notes:
+- Refactor codebase
+- Improve performance
+- Update documentation
