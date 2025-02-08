@@ -1,0 +1,4 @@
+Bug List:
+1. Fix login issue
+2. Resolve API timeout
+3. Correct UI glitches
