@@ -1,0 +1,4 @@
+Feature Requests:
+- Dark mode support
+- Add multi-language support
+- Improve error handling
