@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-def factorial(n):
-    return 1 if n == 0 else n * factorial(n-1)
-
-print(factorial(5))
+import time
+for i in range(3):
+    print(f'Processing {i}')
+    time.sleep(1)
