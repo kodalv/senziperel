@@ -1,5 +1,6 @@
 #!/bin/bash
 
-echo "Starting process..."
-sleep 2
-echo "Process complete!"
+for i in {1..3}; do
+  echo "Task $i running"
+  sleep 1
+done
